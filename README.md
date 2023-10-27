@@ -1,2 +1,3 @@
-# music_player_UI
-Music Player UI in HTML CSS and JavaScript
+# Music Player UI
+
+Music Player UI dark and light mode using HTML, CSS and JavaScript.
